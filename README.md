@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Haseeb</h1>
 <h3 align="center">A Passionate Software Engineer From Pakistan.</h3>
-<img align="right" alt="coding"width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhafiz1379%2Fhafiz1379&psig=AOvVaw3nNA3OvQ2aFOCqEq1LUN_Q&ust=1703783575543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD-m8mOsIMDFQAAAAAdAAAAABAo>
+<img align="right" alt="coding"width="400" src=https://camo.githubusercontent.com/7b73c8c966b5c551ea78105932c95545e3580df84f84084dcf3d4e08813af304/68747470733a2f2f626c6f672e7a6f686f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6e65772d436f6e7665727465642e676966>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-haseeb1&label=Profile%20views&color=0e75b6&style=flat" alt="syed-haseeb1" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/syed_haseeb](https://linktr.ee/syed_haseeb)
